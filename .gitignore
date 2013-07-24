@@ -2,6 +2,7 @@
 .project
 .metadata
 bin/**
+proj.android/bin
 tmp/**
 tmp/**/*
 *.tmp
